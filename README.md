@@ -1,16 +1,17 @@
-# 参照サイト（以下のリポジトリをコピー）
-https://github.com/oleg-agapov/flask-vue-spa
+# 参照サイト
+https://medium.com/@oleg.agapov/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532
 
-# flask-vue-spa
-Vue.js SPA served over Flask microframework
+# 環境
+参照サイトはVueCLI2系での手順だが上記手順を参考にVueCLI3で構築
 
 * Python: 3.6.3
-* Vue.js: 2.5.2
-* vue-router: 3.0.1
-* axios: 0.16.2
+* VueCLI3
+* vue-router: 3.0.3
+* vuetify: 2.0.0
 
-Tutorial on how I build this app:
-https://medium.com/@oleg.agapov/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532
+# 参照サイトと異なるもの
+cli3からビルドファイルの出力先などの設定はvue.config.jsに記載
+https://cli.vuejs.org/config/
 
 ## Build Setup
 
