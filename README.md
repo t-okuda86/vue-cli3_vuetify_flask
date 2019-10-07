@@ -8,6 +8,7 @@ https://medium.com/@oleg.agapov/full-stack-single-page-application-with-vue-js-a
 * VueCLI3
 * vue-router: 3.0.3
 * vuetify: 2.0.0
+* axios
 
 # 参照サイトと異なるもの
 cli3からビルドファイルの出力先などの設定はvue.config.jsに記載
